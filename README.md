@@ -2,6 +2,7 @@
 This mini-project focuses on analyzing Netflix movies starting with 2019
 
 ##I did:
+
 -Cleaning data from commas & missing values (NaN)
 
 -Separating artist and  title of songs 
